@@ -1,6 +1,6 @@
-# PeriodPal ML
+# SakhiSaathi ML
 
-PeriodPal ML is a machine learning-powered API suite for menstrual health analytics. It provides predictive models for menstrual cycle forecasting, PCOS (Polycystic Ovary Syndrome) risk assessment, and hormone level estimation, enabling users and developers to build intelligent period tracking and health applications.
+SakhiSaathi ML is a machine learning-powered API suite for menstrual health analytics. It provides predictive models for menstrual cycle forecasting, PCOS (Polycystic Ovary Syndrome) risk assessment, and hormone level estimation, enabling users and developers to build intelligent period tracking and health applications.
 
 ---
 
@@ -25,7 +25,7 @@ PeriodPal ML is a machine learning-powered API suite for menstrual health analyt
 
 ## Project Overview
 
-PeriodPal ML leverages Python, FastAPI, scikit-learn, pandas, and related libraries to deliver robust machine learning models for menstrual health. The project includes:
+SakhiSaathi ML leverages Python, FastAPI, scikit-learn, pandas, and related libraries to deliver robust machine learning models for menstrual health. The project includes:
 
 - **Menstrual Cycle Prediction:** Forecasts the next cycle date and provides a probability window.
 - **PCOS Risk Detection:** Predicts the risk of PCOS using clinical and lifestyle features.
@@ -49,8 +49,8 @@ PeriodPal ML leverages Python, FastAPI, scikit-learn, pandas, and related librar
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/PeriodPal-ML.git
-   cd PeriodPal-ML
+   git clone https://github.com/yourusername/SakhiSaathi-ML.git
+   cd SakhiSaathi-ML
    ```
 
 2. **Create a virtual environment (recommended):**
