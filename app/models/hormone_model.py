@@ -10,7 +10,9 @@ class HormoneModel:
         
         # Hormone level calculations
         estrogen = 0.5 + 0.5 * np.sin(2 * np.pi * normalized_day)
-        progesterone = 0.3 + 0.7 * np.sin(2 * np.pi * normalized_day - np.pi/2)
+        # progesterone = 0.3 + 0.7 * np.sin(2 * np.pi * normalized_day - np.pi/2)
+        progesterone = 0.3 + 0.7 * np.sin(2 * np.pi * normalized_day + np.pi)
+
         fsh = 0.4 + 0.6 * np.sin(2 * np.pi * normalized_day + np.pi/4)
         lh = 0.2 + 0.8 * np.sin(2 * np.pi * normalized_day + np.pi/2)
         
